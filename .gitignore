@@ -4,13 +4,14 @@
 /temp
 
 json.hpp
+hypervision-dataset.tar.gz
 
 /env/*/
 !/env/*.sh
 !/env/*.dockerfile
 
 /.vscode
-
+/.idea
 
 *.log
 *.png
